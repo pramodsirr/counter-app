@@ -1,6 +1,6 @@
 # counter-app
 sample online shopping module made with react
-install node on your computer.node_modules are not uploaded in this sample.copy contents of src file and paste it in your src folder.
+install node  and bootstrap on your computer.node_modules are not uploaded in this sample.copy contents of src file and paste it in your src folder.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
